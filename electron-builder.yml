@@ -1,0 +1,4 @@
+appId: com.example.ElectronAutoUpdate
+publish:
+  provider: github
+  token: [e0612e838ce8c881913e2c84124233779c0a5d07]
